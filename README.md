@@ -1,7 +1,8 @@
-promos
+Promos
 ======
 
-repository for all the plauscherl's promo material
+Repository for all the plauscherl's promo material
 
-* Business Cards (in 8.5cm x 5.5cm, with additional border)
-* Stickers (shield form)
+Font used: https://fonts.google.com/specimen/Amatic+SC
+
+Green: #78BD48
